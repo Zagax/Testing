@@ -1,5 +1,8 @@
 {
     "scripts": {
         "Test": "testcafe chrome Test/TestHome.js"
+    },
+    "dependencies": {
+        "testcafe": "^1.17.1"
     }
 }
