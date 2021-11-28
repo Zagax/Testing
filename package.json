@@ -1,0 +1,5 @@
+{
+    "scripts": {
+        "Test": "testcafe chrome Test/TestHome.js"
+    }
+}
