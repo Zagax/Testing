@@ -1,6 +1,6 @@
 {
     "scripts": {
-        "Test": "testcafe chrome Test/TestHome.js"
+        "Test": "testcafe chrome Test/*.js"
     },
     "dependencies": {
         "testcafe": "^1.17.1"
